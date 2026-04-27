@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/nginx-config-builder?style=for-the-badge)](https://github.com/RanaAhmar/nginx-config-builder/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/nginx-config-builder?style=for-the-badge)](https://github.com/RanaAhmar/nginx-config-builder/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/nginx-config-builder/blob/main/LICENSE)
+
 # ⚙️ Nginx Config Builder
 
 Generate high-performance, secure Nginx configurations instantly. Optimizations for SSL, Gzip, Caching, and Security Headers. Created by **Ahmar Hussain** (**Stackaura**).
@@ -35,6 +37,13 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
 
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
 
-
+*If you find this project useful, please consider giving it a star! ⭐*
